@@ -1,1 +1,2 @@
-Opps, we accidently skipped a step
+git statHannah is awesome
+Keila is awesome.
