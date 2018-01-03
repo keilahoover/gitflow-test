@@ -1,1 +1,2 @@
-Keila is awesome and so Hannah!
+Hannah is awesome
+Keila is awesome.
